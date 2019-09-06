@@ -1,0 +1,8 @@
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\bin\Release\netstandard2.0\APIWebApplication.DAO.deps.json
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\bin\Release\netstandard2.0\APIWebApplication.DAO.dll
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\bin\Release\netstandard2.0\APIWebApplication.DAO.pdb
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\obj\Release\netstandard2.0\APIWebApplication.DAO.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\obj\Release\netstandard2.0\APIWebApplication.DAO.AssemblyInfoInputs.cache
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\obj\Release\netstandard2.0\APIWebApplication.DAO.AssemblyInfo.cs
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\obj\Release\netstandard2.0\APIWebApplication.DAO.dll
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.DAO\obj\Release\netstandard2.0\APIWebApplication.DAO.pdb

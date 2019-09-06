@@ -1,0 +1,9 @@
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\bin\Debug\netstandard2.0\APIWebApplication.Common.deps.json
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\bin\Debug\netstandard2.0\APIWebApplication.Common.dll
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\bin\Debug\netstandard2.0\APIWebApplication.Common.pdb
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\obj\Debug\netstandard2.0\APIWebApplication.Common.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\obj\Debug\netstandard2.0\APIWebApplication.Common.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\obj\Debug\netstandard2.0\APIWebApplication.Common.AssemblyInfo.cs
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\obj\Debug\netstandard2.0\APIWebApplication.Common.dll
+C:\Users\kevin\source\repos\APIWebApplication\APIWebApplication.Common\obj\Debug\netstandard2.0\APIWebApplication.Common.pdb
+C:\Users\Kevin\source\repos\APIWebApplication\APIWebApplication.Common\obj\Debug\netstandard2.0\APIWebApplication.Common.csprojResolveAssemblyReference.cache
